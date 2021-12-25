@@ -6,7 +6,7 @@ This is my personal scoop bucket repo which I use to install all my apps I use f
 
 These contains both work (as a Cloud Data Engineer) and personal apps for system maintenance and entertainment.
 
-## Ackknowledgement
+## Acknowledgement
 
 This repo was created by using the scoop template created by Ash....
 
