@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is my personal scoop bucket repo which I use to install all my apps I use for my machine. 
+This is my personal scoop bucket repo which I use to install all my apps I use for my machine.
 
 These contains both work (as a Cloud Data Engineer) and personal apps for system maintenance and entertainment.
 
